@@ -3,7 +3,7 @@
 include 'connection.php';
 
 echo "<h1>Database Setup Test</h1>";
-//test comment
+
 // Test database connection
 if ($conn) {
     echo "<p style='color: green;'>✓ Database connection successful</p>";
